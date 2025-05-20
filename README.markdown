@@ -42,7 +42,7 @@ O ImagiArte foi criado para aprimorar imagens de forma automatizada, mantendo a 
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/<seu-usuario>/ImagiArte.git
+   git clone https://github.com/DARK49787/ImagiArte
    cd ImagiArte
    ```
 
